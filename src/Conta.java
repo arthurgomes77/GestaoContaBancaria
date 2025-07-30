@@ -1,9 +1,6 @@
-package Content;
-
 public class Conta {
     private double saldo;
     private double valorChequeEspecial;
-    private double chequeEspecialUsado;
     private double chequeEspecial;
 
     public double getChequeEspecial() {

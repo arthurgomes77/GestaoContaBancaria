@@ -1,5 +1,3 @@
-import Content.Conta;
-
 import java.util.Scanner;
 
 public class Main {
